@@ -1,12 +1,12 @@
 # Splasher
 
-[![](https://img.shields.io/github/v/tag/thexxiv/splasher?label=version)](https://github.com/thexxiv/splasher/releases/latest) [![](https://img.shields.io/github/license/thexxiv/splasher)](https://github.com/thexxiv/splasher/blob/main/LICENSE)
+[![](https://img.shields.io/github/v/tag/thechampagne/splasher?label=version)](https://github.com/thechampagne/splasher/releases/latest) [![](https://img.shields.io/github/license/thechampagne/splasher)](https://github.com/thechampagne/splasher/blob/main/LICENSE)
 
 Splasher is a tool to change desktop wallpaper random every 2 minutes from unsplash.
 
 ### Download
 
-Latest Release: [GitHub Release](https://github.com/thexxiv/splasher/releases/latest)
+Latest Release: [GitHub Release](https://github.com/thechampagne/splasher/releases/latest)
 
 ### Installation & Setup
 
@@ -34,4 +34,4 @@ splasher --query nature --mode center
 
 ### License
 
-Splasher is released under the [MIT License](https://github.com/thexxiv/splasher/blob/main/LICENSE).
+Splasher is released under the [MIT License](https://github.com/thechampagne/splasher/blob/main/LICENSE).
